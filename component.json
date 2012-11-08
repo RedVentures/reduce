@@ -1,8 +1,8 @@
 {
   "name": "reduce",
   "repo": "redventures/reduce",
-  "description": "array reduce",
-  "version": "0.0.0",
+  "description": "Array reduce component",
+  "version": "0.0.1",
   "keywords": ["array", "reduce"],
   "dependencies": {},
   "development": {},

@@ -6,6 +6,11 @@ components: component.json
 	@component install --dev
 
 clean:
-	rm -fr build components template.js
+	rm -fr build components
 
-.PHONY: clean
+test:
+	@./node_modules/.bin/mocha \
+		--require should \
+		--reporter spec
+
+.PHONY: clean test
