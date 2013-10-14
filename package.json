@@ -1,7 +1,7 @@
 {
   "name": "reduce",
   "description": "Array reduce component",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "devDependencies": {
     "mocha": "*",
     "should": "*"

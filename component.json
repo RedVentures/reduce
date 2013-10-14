@@ -2,7 +2,7 @@
   "name": "reduce",
   "repo": "redventures/reduce",
   "description": "Array reduce component",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "keywords": ["array", "reduce"],
   "dependencies": {},
   "development": {},
