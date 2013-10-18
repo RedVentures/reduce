@@ -1,14 +1,9 @@
 {
-  "name": "reduce",
+  "name": "component-reduce",
   "description": "Array reduce component",
   "version": "1.0.0",
   "devDependencies": {
     "mocha": "*",
     "should": "*"
-  },
-  "component": {
-    "scripts": {
-      "reduce": "index.js"
-    }
   }
 }
