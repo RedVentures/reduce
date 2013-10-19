@@ -1,7 +1,7 @@
 {
   "name": "reduce-component",
   "description": "Array reduce component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "type": "git",
     "url": "git://github.com/redventures/reduce.git"
