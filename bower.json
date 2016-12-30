@@ -1,0 +1,13 @@
+{
+  "name": "reduce",
+  "version": "1.0.1",
+  "main": "index.js",
+  "license": "Apache-2.0",
+  "homepage": "https://visionmedia.github.io/superagent/",
+  "ignore": [
+    "test/",
+    ".gitignore",
+    "component.json",
+    "package.json"
+  ]
+}
